@@ -6,6 +6,8 @@
 - ☕ **Java** – for strong object-oriented programming skills
 - 💻 **C++** – to understand how things work under the hood
 
+![snake gif](https://github.com/SouLCodes-main/SouLCodes-main/blob/output/github-snake-dark.svg)
+
 ## 💡 A Bit About Me
 - I have a little past experience with coding and now I’m excited to take it seriously.
 - I believe in learning by doing, so you’ll find small projects and experiments here as I grow.
