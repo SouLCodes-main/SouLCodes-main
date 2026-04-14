@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm PRABAL SINGH!<br>I'm a beginner passionate about learning how to code and building cool stuff.<br><br>🌱 What I'm Currently Learning<br>🐍 Python – for its simplicity and power<br>☕ Java – for strong object-oriented programming skills<br>💻 C++ – to understand how things work under the hood
+👋 Hi there, I'm PRABAL SINGH!<br>I'm a passionate developer who loves to explore new areas and build stuff.<br><br>🌱 What I'm Currently Learning<br>🐍 Python – for its simplicity and power<br>☕ Java – for strong object-oriented programming skills<br>💻 C++ – to understand how things work under the hood
 
 ![snake gif](https://github.com/SouLCodes-main/SouLCodes-main/blob/output/github-snake-dark.svg)
 
@@ -20,7 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SouLCodes-main&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 <!---
