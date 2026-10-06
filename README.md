@@ -33,7 +33,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouLCodes-main)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SouL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prabal-singhh)
-[![Instagram](https://img.shields.io/badge/Instagram-SouL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duhh.prabal/)
+[![Instagram](https://img.shields.io/badge/Instagram-SouL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duhh.prabal/) 
 
 <br>
 
