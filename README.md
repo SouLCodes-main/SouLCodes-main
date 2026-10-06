@@ -31,9 +31,9 @@
 
 <p><b>CSE Sophomore • Freelance Web Developer • ML Enthusiast</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SouL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soul/)
-[![Instagram](https://img.shields.io/badge/Instagram-SouL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soul/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouLCodes-main)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SouL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prabal-singhh)
+[![Instagram](https://img.shields.io/badge/Instagram-SouL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duhh.prabal/)
 
 <br>
 
